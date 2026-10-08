@@ -1,0 +1,3 @@
+GitHub permite que varias personas trabajen en el mismo proyecto, 
+guardando el historial de cambios, revisando el código de los demás y 
+evitando perder o sobrescribir trabajo.
